@@ -2,7 +2,7 @@
 <server name=" 🆔  𝚂𝙴𝙼𝚄𝚃 𝙼𝙴𝚁𝙰𝙷🇮🇩" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="164.132.3.62" port="55352" region="ID" url="https://radio.nasional.online" token="null"/>
 <server name=" 🆔  𝙴𝙺𝙾 𝙲𝙾𝙼𝙼𝚄𝙽𝙸𝚃𝚈🇮🇩" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="164.132.3.62" port="56785" region="ID" url="https://radio.nasional.online" token="null"/>
 <server name=" 🆔  𝙻𝙾𝚅𝙴 𝙰𝚈𝙾 𝚁𝙴𝙺🇮🇩" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="149.56.14.62" port="57116" region="ID" url="https://radio.nasional.online" token="null"/>
-
+<servers>
 <server name="-- Open Virtualkitchen Mumble Server --" ca="0" continent_code="EU" country="France" country_code="FR" ip="mumble.virtualkitchen.org" port="64738" region="Ile-de-France" url="https://virtualkitchen.org/"/>
 
 <server name="--- Top Shelf Technology ---" ca="1" continent_code="NA" country="United States of America" country_code="US" ip="209.222.10.162" port="64738" region="New Jersey" url="https://dbuild.xyz"/>
