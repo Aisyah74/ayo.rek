@@ -1,5 +1,5 @@
 <servers>
 <server name=" 🆔LOVE AYO REK🇮🇩" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="149.56.14.62" port="57116" region="ID" url="https://radio.nasional.online" token="null"/>
-<server name="SERVER RKAR ANDROID" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="0.tcp.ap.ngrok.io" port="11835" region="ID" url="https://radio.nasional.online" token="null"/>
+<server name="SERVER RKAR ANDROID" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="tcp://0.tcp.ap.ngrok.io" port="10293" region="ID" url="https://radio.nasional.online" token="null"/>
 <server name="BRIG HT" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="satuindonesia.info" port="64738" region="ID" url="https://radio.nasional.online" token="null"/>
 </servers>
