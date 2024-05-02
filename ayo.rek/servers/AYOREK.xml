@@ -1,5 +1,5 @@
 <servers>
 <server name=" 🆔LOVE AYO REK🇮🇩" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="149.56.14.62" port="57116" region="ID" url="https://radio.nasional.online" token="null"/>
 <server name="((R K A R))" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="ayorek.sytes.net" port="64738" region="ID" url="https://radio.nasional.online" token="null"/>
-<server name="Mbah edy blora fm" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="https://mumble-us2.cleanvoice.com" port="64738" region="ID" url="https://radio.nasional.online" token="null"/>
+<server name="Mbah edy blora fm" ca="0" continent_code="IND" country="INDONESIA" country_code="ID" ip="mumble-us2.cleanvoice.com" port="64738" region="ID" url="https://radio.nasional.online" token="null"/>
 </servers>
