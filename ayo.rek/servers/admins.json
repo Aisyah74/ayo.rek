@@ -1,1 +1,10 @@
-["SUPERUSER", "TOPA"]
+{
+  "owner": "ARK",
+  "admins": ["ARK", "Aisyah74"],
+  "superAdmins": ["ARK"],
+  "version": 2,
+  "roles": {
+    "ARK": "Owner",
+    "Aisyah74": "Admin"
+  }
+}
