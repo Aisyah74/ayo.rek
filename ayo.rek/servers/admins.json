@@ -1,10 +1,5 @@
 {
-  "owner": "ARK",
-  "admins": ["ARK", "Aisyah74"],
-  "superAdmins": ["ARK"],
-  "version": 2,
-  "roles": {
-    "ARK": "Owner",
-    "Aisyah74": "Admin"
-  }
+  "owners": ["ARK", "SUPERUSER", "ARK 068"],
+  "admins": ["ADMIN 1", "ADMIN 2"],
+  "mods": ["MOD 1"]
 }
